@@ -1,5 +1,0 @@
-BUGS TO FIX
-
-
-1. Ball count is not added when batsman is out in batsman stats.
-2. Properly order the batsman and bowler stats in score txt file
