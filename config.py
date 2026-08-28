@@ -33,7 +33,7 @@ Database_config = {
     'port':5432,
     'database':'cricscorer',
     'user':'postgres',
-    'password':'admin123'
+    'password':'#ENTER YOUR DATABSE PASSWORD'
 }
 
 #Database_file = os.path.join(Data_dir, "cricscorer.db")
